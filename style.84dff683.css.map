@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,UACE,kBACF,CAEA,YACE,aACF,CAEA,OACE,kBACF","file":"style.84dff683.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.form_field {\n  display: block;\n}\n\n.field {\n  margin-bottom: 10px;\n}\n"]}
